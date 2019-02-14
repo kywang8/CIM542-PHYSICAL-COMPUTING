@@ -3,12 +3,15 @@
 ## H1
 
 <a href = "/homework/spaceship_interface.ino">Link to spaceship code</a>
-
-<br>
 <a href = "https://vimeo.com/315934051">Link to spaceship video</a>
 
 <br>
 <img src = "/homework/prototype.jpg" width = "400">
+
+<br>
+<a href = "/homework/love_o_meter.ino">Link to Love O Meter code</a>
+<a href = "https://vimeo.com/317182392">Link to Love O Meter video</a>
+<!--- couldn't get good temp settings for some reason -->
 
 [link text](url)
 
