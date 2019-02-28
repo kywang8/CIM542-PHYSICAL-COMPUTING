@@ -17,6 +17,13 @@
 <a href = "/homework/color_mixing_lamp">Link to Color Mixing Lamp code</a>
 <a href = "https://vimeo.com/317309296">Link to Color Mixing Lamp video</a>
 
+<br>
+<a href = "/homework/knock_lock">Link to Knock Lock code</a>
+<a href = "https://vimeo.com/manage/320565017/general">Link to Knock Lock video</a>
+<img src = "/homework/sensorwalk1.JPG" width = "400">
+<img src = "/homework/sensorwalk2.JPG" width = "400">
+
+
 [link text](url)
 
 ![alt tag](image_url)
