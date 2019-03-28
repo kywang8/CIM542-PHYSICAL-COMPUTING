@@ -6,7 +6,7 @@
 <a href = "https://vimeo.com/315934051">Link to spaceship video</a>
 
 <br>
-<img src = "/homework/prototype.jpg" width = "400">
+<img src = "/homework/misc/prototype.jpg" width = "400">
 
 <br>
 <a href = "/homework/love_o_meter.ino">Link to Love O Meter code</a>
@@ -20,8 +20,11 @@
 <br>
 <a href = "/homework/knock_lock">Link to Knock Lock code</a>
 <a href = "https://vimeo.com/manage/320565017/general">Link to Knock Lock video</a>
-<img src = "/homework/sensorwalk1.JPG" width = "400">
-<img src = "/homework/sensorwalk2.JPG" width = "400">
+<img src = "/homework/misc/sensorwalk1.JPG" width = "400">
+<img src = "/homework/misc/sensorwalk2.JPG" width = "400">
+
+<br>
+<a href = "/homework/misc/midtermpres.pdf">Link to midterm presentation slides</a>
 
 
 [link text](url)
