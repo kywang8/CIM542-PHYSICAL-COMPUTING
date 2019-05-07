@@ -26,6 +26,8 @@
 <br>
 <a href = "/homework/misc/midtermpres.pdf">Link to midterm presentation slides</a>
 
+<br>
+
 
 [link text](url)
 
